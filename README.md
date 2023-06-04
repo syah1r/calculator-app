@@ -1,6 +1,4 @@
-# calculator-app
-Calculator App Using C#
-
+# Calculator App Using C#
 Hi everyone, 
 
 This application is created using C# (Windows Form). It is able to do what a traditional calculator does which includes addition, subtraction,
